@@ -32,4 +32,4 @@ Simon Says challenges players to memorize and repeat an increasingly complex seq
 4. Each round adds a new step — how far can you go?
 
 ---
-
+live demo-https://simon-says-game-6s1k.onrender.com
